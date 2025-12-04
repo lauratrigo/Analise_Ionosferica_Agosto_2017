@@ -47,7 +47,7 @@ analise-ionosferica/
 ├── codigo_oficial_sjc.m # Script principal de análise para São José dos Campos
 ├── codigo_oficial_jat.m # Script principal de análise para Jataí
 ├── codigo_oficial_arg.m # Script principal de análise para Araguatins
-├── README.md # Este arquivo
+└── README.md # Este arquivo
 ```
 
 ## 📦 Como Executar o Projeto
