@@ -85,26 +85,7 @@ run codigo_oficial_sjc.m, ou codigo_oficial_jat.m ou codigo_oficial_arg.m
   5. Índice normalizado de variação de h'F
   6. Índice normalizado de variação de hmF2
   7. Índice normalizado de variação de foF2
-
-### **Destaques visuais**:
-- 🔴 **Retângulos vermelhos**: Dias do evento de maior perturbação.
-- 🔵 **Retângulos azuis**: Dias geomagneticamente mais calmos.
-
----
-
-## 🤝 Agradecimentos
-
-Este projeto foi desenvolvido no IP&D (Instituto de Pesquisa e Desenvolvimnto) como parte da Iniciação Científica, com o apoio e orientação do grupo de pesquisa em Física da UNIVAP (Universidade do Vale do Paraíba).
-
-Agradecimentos especiais às colegas **Josy** e **Gabi** pela coleta dos dados manuais e validação dos resultados.
-
----
-
-## 📜 Licença
-
-Este projeto está licenciado sob a Licença MIT - veja o arquivo LICENSE para mais informações.
-
-
+ 
 <div align="center">
   <h4><strong>Figura 1: São José dos Campos (SP)</strong></h4>
   <img src="images/image_sjc.png" alt="Gráfico SJC" style="width:80%; max-width:900px;">
@@ -123,3 +104,22 @@ Este projeto está licenciado sob a Licença MIT - veja o arquivo LICENSE para m
   <h4><strong>Figura 3: Jataí (GO)</strong></h4>
   <img src="images/image_jat.png" alt="Gráfico Jataí" style="width:80%; max-width:900px;">
 </div>
+
+
+### **Destaques visuais**:
+- 🔴 **Retângulos vermelhos**: Dias do evento de maior perturbação.
+- 🔵 **Retângulos azuis**: Dias geomagneticamente mais calmos.
+
+---
+
+## 🤝 Agradecimentos
+
+Este projeto foi desenvolvido no IP&D (Instituto de Pesquisa e Desenvolvimnto) como parte da Iniciação Científica, com o apoio e orientação do grupo de pesquisa em Física da UNIVAP (Universidade do Vale do Paraíba).
+
+Agradecimentos especiais às colegas **Josy** e **Gabi** pela coleta dos dados manuais e validação dos resultados.
+
+---
+
+## 📜 Licença
+
+Este projeto está licenciado sob a Licença MIT - veja o arquivo LICENSE para mais informações.
